@@ -31,6 +31,23 @@ Currently studying Computer Science and Engineering at [NIT Silchar](http://www.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Database*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)<br />
 
+
+
+
+
+#### 📈 My GitHub Stats:
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=biley02&theme=graywhite&show_icons=true&hide_border=false&custom_title=Biley's%20Github%20Stats&border_radius=0&include_all_commits=true&count_private=true" />
+
+
+
+
+
+
+
+
+
+
+
 <!-- ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 

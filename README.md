@@ -7,10 +7,20 @@
 ![Followers Badge](https://img.shields.io/github/followers/biley02?style=social)
 <!-- [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.link/ccl4l6)](https://wa.link/ccl4l6) -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently studying Computer Science and Engineering at [NIT Silchar](http://www.nits.ac.in/).
+Currently studying Computer Science and Engineering at [NIT Silchar](http://www.nits.ac.in/).
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A passionate guy with great interests in problem solving and web development. Loves to explore new technologies and build solutions to real life problems.</span>
+<span>A passionate guy with great interests in problem solving and web development. Loves to explore new technologies and build solutions to real life problems.</span>
+
+<br/>
+
+#### 🙋‍♂️ More about me:
+- *🎯 Aim for 2022 is to learn new things and be a better version of myself*
+- *💻 Currently working on MERN Stack projects*
+- *🌱 I’m currently exploring Blockchain Technology.*
+- *🚀 I love problem solving and Competitive programming.*
+- *💬 Ask me anything. Will try to help as much as I can*
+- *📑 Visit my coding profile: [LeetCode](https://leetcode.com/biley02/) &nbsp;&nbsp; [Codeforces](https://codeforces.com/profile/bit_master) &nbsp;&nbsp; [Codechef](https://www.codechef.com/users/biley02)*
 
 
 

@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Biley Roy</h1>
 
-<a target="_blank" href="https://www.linkedin.com/in/biley-roy-783595199/">
-  <img align="left" alt="Biley's Linkdein" width="22px" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/biley-roy-783595199/">
+  <img alt="Biley's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:biley.roy02@gmail.com">

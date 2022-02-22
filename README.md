@@ -1,26 +1,13 @@
 <h1 align="center">Hi 👋, I'm Biley Roy</h1>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Facebook Badge][fb]](https://www.facebook.com/biley.roy.5)
+[![Linkedin Badge][linkedin]](https://www.linkedin.com/in/biley-roy-783595199/)
+[![Instagram Badge][instagram]](https://www.instagram.com/_roy06/)
+[![Gmail Badge][gmail]](mailto:biley.roy02@gmail.com)
+![Followers Badge](https://img.shields.io/github/followers/biley02?style=social)
+<!-- [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.link/ccl4l6)](https://wa.link/ccl4l6) -->
 
-<a href="https://www.linkedin.com/in/biley-roy-783595199/">
-  <img alt="Biley's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
-</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently studying Computer Science and Engineering at [NIT Silchar](http://www.nits.ac.in/).
+<br />
 
-<a href="mailto:biley.roy02@gmail.com">
-  <img alt="Biley's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
-
-
-<!--
-**biley02/biley02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A passionate guy with great interests in problem solving and web development. Loves to explore new technologies and build solutions to real life problems.</span>
